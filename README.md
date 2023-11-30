@@ -1,7 +1,7 @@
-#0x1D. C - Binary trees
+# 0x1D. C - Binary trees
 
-##Resources
-##Read or watch:
+# Resources
+## Read or watch:
 
 * Binary tree (note the first line: Not to be confused with B-tree.)
 * Data Structure and Algorithms - Tree
@@ -9,7 +9,7 @@
 * Binary Search Tree
 * Data structures: Binary Tree
 
-##General
+## General
 * What is a binary tree
 * What is the difference between a binary tree and a Binary Search Tree
 * What is the possible gain in terms of time complexity compared to linked lists
@@ -17,7 +17,7 @@
 * What are the different traversal methods to go through a binary tree
 * What is a complete, a full, a perfect, a balanced binary tree
 
-##Copyright - Plagiarism
+## Copyright - Plagiarism
 * You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 * You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 * You are not allowed to publish any content of this project.
